@@ -1,8 +1,18 @@
-![icons8-person-windows-11-color-96](https://github.com/praba-one/praba-one/assets/144136391/50baf877-4adb-48d0-8b1e-162a73bd3732)
-![icons8-person-windows-11-color-32](https://github.com/praba-one/praba-one/assets/144136391/4fad6d7b-aac5-4010-b27b-485b52bb52ef)
-![icons8-person-windows-11-color-16](https://github.com/praba-one/praba-one/assets/144136391/21171961-6565-48b9-b98e-965fdefad6f1)
-![guitar](https://github.com/praba-one/praba-one/assets/144136391/a9d39662-10c8-4ab3-b6f7-6ed58eb00ae7)
-![logo](https://github.com/praba-one/praba-one/assets/144136391/fe7978d3-9030-4cb7-a52a-fe27f62a601f)
-![icons8-person-windows-11-color-96](https://github.com/praba-one/praba-one/assets/144136391/07bb027e-2cc5-4e88-a14b-9f52ea21e8b4)
-![icons8-person-windows-11-color-32](https://github.com/praba-one/praba-one/assets/144136391/1068b88d-8178-4557-81cf-d319972f0b44)
-![icons8-person-windows-11-color-16](https://github.com/praba-one/praba-one/assets/144136391/1add8245-7966-4733-ac72-0c9778f4ef9c)
+<h1 align="center">Hi 👋, I'm Prabakaran !</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **React,Python**
+
+- 👨‍💻 All of my projects are available at [https://praba-one.github.io/portfolio.github.io](https://praba-one.github.io/portfolio.github.io)
+
+- 📫 How to reach me **smartpraba13@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/smart___praba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smart___praba" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praba-one&show_icons=true&locale=en&layout=compact" alt="praba-one" /></p>
