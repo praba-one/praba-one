@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/praba-one/praba-one/assets/144136391/d4d881b9-5ad1-4c9c-b29f-da729742e5bb"  />
+  <img height="300" src="https://github.com/praba-one/praba-one/assets/144136391/d4d881b9-5ad1-4c9c-b29f-da729742e5bb"  />
 </div>
 
 ###
